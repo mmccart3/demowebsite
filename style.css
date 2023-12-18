@@ -1,0 +1,31 @@
+* {
+ 
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: deeppink;
+}
+
+p {
+    color:mediumblue;
+    background-color: bisque;
+}
+/* This is a comment */
+.fred {
+    color:darkred;
+    background-color: lightpink;
+}
+
+.harry {
+    color:blue;
+    background-color: aqua;
+}
+
+#hermione {
+    color:navy;
+    background-color:burlywood;
+}
