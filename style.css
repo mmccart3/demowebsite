@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 body {
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     font-family: 'Kalam', cursive;
     background-color: #bcd8ff;
 }
@@ -26,27 +25,21 @@ a {
     color:blue;
     background-color: aqua;
 }
-
 #hermione {
     color:navy;
     background-color:burlywood;
 }
-
 .navitem {
-
-    /* border: solid pink 1px; */
     background-color: rgb(182, 201, 218);
     color:navy;
     border-radius: 7px;
     min-width: 100px;
     text-align: center;
 }
-
 .container {
     box-sizing: border-box;
     display:flex;
     flex-direction: row;
     justify-content:space-around;
-    /* border: red solid 2px; */
     padding-left: 0px;
 }
