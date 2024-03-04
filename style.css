@@ -1,38 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
-
-* {
- /* border: solid navy 2px; */
-}
-
 body {
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
     font-family: 'Kalam', cursive;
     background-color: #bcd8ff;
 }
-
 h1 {
     color: deeppink;
 }
-
 p {
     color:mediumblue;
     background-color: bisque;
 }
-
 ul {
     list-style-type: none;
 }
-
 a {
     text-decoration: none;
 }
-
 /* This is a comment */
 .fred {
     color:darkred;
     background-color: lightpink;
 }
-
 .harry {
     color:blue;
     background-color: aqua;
