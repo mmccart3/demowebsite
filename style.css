@@ -11,7 +11,7 @@ p {
     background-color: bisque;
 }
 ul {
-    list-style-type: none;
+    list-style-type:disc;
 }
 a {
     text-decoration: none;
@@ -41,5 +41,6 @@ a {
     display:flex;
     flex-direction: row;
     justify-content:space-around;
+
     padding-left: 0px;
 }
